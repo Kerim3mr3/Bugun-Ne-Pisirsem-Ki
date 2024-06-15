@@ -1,0 +1,2 @@
+*.txt text=auto
+*.java linguist-language=java
