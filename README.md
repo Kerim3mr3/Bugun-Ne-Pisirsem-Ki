@@ -9,7 +9,8 @@
 7. [Gradle Gereksinimleri](#gradle-gereksinimleri)
 
 ---
-
+## **Tanıtım**  
+Java programlama dilinde Android Studio platformunda yapılmış basit bir yemek tarifleri mobil uygulaması, veri tabanı kullanılmamıştır.
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <h2>Splash Screen (Açılış Ekranı)</h2>
