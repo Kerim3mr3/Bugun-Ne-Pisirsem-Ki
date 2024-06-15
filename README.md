@@ -1,12 +1,13 @@
 # İçindekiler
 
-1. [Splash Screen (Açılış Ekranı)](#splash-screen-a%C3%A7%C4%B1l%C4%B1%C5%9F-ekran%C4%B1)
-2. [Ana Sayfa](#ana-sayfa)
-3. [Menu](#menu)
-4. [Yemekler](#yemekler)
-5. [Çorbalar](#%C3%A7orbalar)
-6. [Tatlılar](#tatl%C4%B1lar)
-7. [Gradle Gereksinimleri](#gradle-gereksinimleri)
+1. [Tanıtım]
+2. [Splash Screen (Açılış Ekranı)](#splash-screen-a%C3%A7%C4%B1l%C4%B1%C5%9F-ekran%C4%B1)
+3. [Ana Sayfa](#ana-sayfa)
+4. [Menu](#menu)
+5. [Yemekler](#yemekler)
+6. [Çorbalar](#%C3%A7orbalar)
+7. [Tatlılar](#tatl%C4%B1lar)
+8. [Gradle Gereksinimleri](#gradle-gereksinimleri)
 
 ---
 ## **Tanıtım**  
