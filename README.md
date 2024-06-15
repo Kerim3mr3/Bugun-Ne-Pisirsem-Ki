@@ -1,5 +1,5 @@
 # **Splash Screen (Açılış Ekranı)**  
-![Splash Screen Ekran Görüntüsü](./resimler/Ana_Sayfa_İş.png)  
+![Splash Screen Ekran Görüntüsü](./app/src/main/res/drawable/bnpk_splash_screen_animated.gif)  
 
 # **Ana Sayfa**  
 ![Ana Sayfa Ekran Görüntüsü](./resimler/Ana_Sayfa_İş.png)  
