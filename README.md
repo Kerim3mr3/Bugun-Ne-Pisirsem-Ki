@@ -1,3 +1,15 @@
+# İçindekiler
+
+1. [Splash Screen (Açılış Ekranı)](#splash-screen-a%C3%A7%C4%B1l%C4%B1%C5%9F-ekran%C4%B1)
+2. [Ana Sayfa](#ana-sayfa)
+3. [Menu](#menu)
+4. [Yemekler](#yemekler)
+5. [Çorbalar](#%C3%A7orbalar)
+6. [Tatlılar](#tatl%C4%B1lar)
+7. [Gradle Gereksinimleri](#gradle-gereksinimleri)
+
+---
+
 # **Splash Screen (Açılış Ekranı)**  
 ![Splash Screen Ekran Görüntüsü](./app/src/main/res/drawable/bnpk_splash_screen_animated.gif)  
 
