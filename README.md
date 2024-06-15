@@ -16,8 +16,8 @@
 # **Tatlılar**  
 ![Tatlılar Ekran Görüntüsü](./app/src/main/res/drawable/Tatlılar_Gif.gif)  
 
-**İndirmek İçin:** git clone https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki.git  
-**Gradle Gereksinimlerini yükleyin:**  
+# **İndirmek İçin:** git clone https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki.git  
+# **Gradle Gereksinimlerini yükleyin:**  
 implementation "androidx.recyclerview:recyclerview:1.3.2"
     implementation 'com.google.android.material:material:1.11.0'
     implementation ('com.github.shrikanth7698:Custom-Navigation-Drawer:v0.0.1') {
