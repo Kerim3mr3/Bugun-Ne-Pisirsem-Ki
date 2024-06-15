@@ -11,23 +11,34 @@
 ---
 
 # **Splash Screen (Açılış Ekranı)**  
-<img src="./app/src/main/res/drawable/bnpk_splash_screen_animated.gif" alt="Splash Screen Ekran Görüntüsü" width="300">
+<div align="center">
+    <img src="./app/src/main/res/drawable/bnpk_splash_screen_animated.gif" alt="Splash Screen Ekran Görüntüsü" width="300">
+</div>
 
 # **Ana Sayfa**  
-<img src="./app/src/main/res/drawable/anasayfa_gif.gif" alt="Ana Sayfa Ekran Görüntüsü" width="300">
+<div align="center">
+    <img src="./app/src/main/res/drawable/anasayfa_gif.gif" alt="Ana Sayfa Ekran Görüntüsü" width="300">
+</div>
 
 # **Menu**  
-<img src="./app/src/main/res/drawable/Menu_Gif.gif" alt="Menu Ekran Görüntüsü" width="300">
+<div align="center">
+    <img src="./app/src/main/res/drawable/Menu_Gif.gif" alt="Menu Ekran Görüntüsü" width="300">
+</div>
 
 # **Yemekler**  
-<img src="./app/src/main/res/drawable/Yemekler_Gif.gif" alt="Yemekler Ekran Görüntüsü" width="300">
+<div align="center">
+    <img src="./app/src/main/res/drawable/Yemekler_Gif.gif" alt="Yemekler Ekran Görüntüsü" width="300">
+</div>
 
 # **Çorbalar**  
-<img src="./app/src/main/res/drawable/Corbalar_Gif.gif" alt="Çorbalar Ekran Görüntüsü" width="300">
+<div align="center">
+    <img src="./app/src/main/res/drawable/Corbalar_Gif.gif" alt="Çorbalar Ekran Görüntüsü" width="300">
+</div>
 
 # **Tatlılar**  
-<img src="./app/src/main/res/drawable/Tatlılar_Gif.gif" alt="Tatlılar Ekran Görüntüsü" width="300">
-
+<div align="center">
+    <img src="./app/src/main/res/drawable/Tatlılar_Gif.gif" alt="Tatlılar Ekran Görüntüsü" width="300">
+</div>
 # **Gradle Gereksinimleri**
 ```gradle
 implementation "androidx.recyclerview:recyclerview:1.3.2"
