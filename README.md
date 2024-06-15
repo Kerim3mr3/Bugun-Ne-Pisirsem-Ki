@@ -2,19 +2,19 @@
 ![Splash Screen Ekran Görüntüsü](./app/src/main/res/drawable/bnpk_splash_screen_animated.gif)  
 
 # **Ana Sayfa**  
-![Ana Sayfa Ekran Görüntüsü](./resimler/Ana_Sayfa_İş.png)  
+![Ana Sayfa Ekran Görüntüsü](./app/src/main/res/drawable/anasayfa_gif.gif)  
 
 # **Menu**  
-![Menu Ekran Görüntüsü](./resimler/Hava_Durumu_Sayfası.png)  
+![Menu Ekran Görüntüsü](./app/src/main/res/drawable/Menu_Gif.gif)  
 
 # **Yemekler**  
-![Yemekler Ekran Görüntüsü](./resimler/Borsa_Sayfası.png)  
+![Yemekler Ekran Görüntüsü](./app/src/main/res/drawable/Yemekler_Gif.gif)  
 
 # **Çorbalar**  
-![Çorbalar Ekran Görüntüsü](./resimler/Döviz_Sayfası.png)  
+![Çorbalar Ekran Görüntüsü](./app/src/main/res/drawable/Corbalar_Gif.gif)  
 
 # **Tatlılar**  
-![Tatlılar Ekran Görüntüsü](./resimler/Pomodoro_Sayfası.png)  
+![Tatlılar Ekran Görüntüsü](./app/src/main/res/drawable/Tatlılar_Gif.gif)  
 
 **İndirmek İçin:** git clone https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki.git  
 **Gradle Gereksinimlerini yükleyin:**  
