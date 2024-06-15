@@ -1,6 +1,6 @@
 # İçindekiler
 
-1. [Tanıtım]
+1. [Tanıtım](#tan%C4%B1t%C4%B1m)
 2. [Splash Screen (Açılış Ekranı)](#splash-screen-a%C3%A7%C4%B1l%C4%B1%C5%9F-ekran%C4%B1)
 3. [Ana Sayfa](#ana-sayfa)
 4. [Menu](#menu)
