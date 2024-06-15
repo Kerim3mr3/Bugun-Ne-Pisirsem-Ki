@@ -16,12 +16,13 @@
 # **Tatlılar**  
 ![Tatlılar Ekran Görüntüsü](./app/src/main/res/drawable/Tatlılar_Gif.gif)  
 
-# **İndirmek İçin:** git clone https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki.git  
+# **İndirmek İçin:**  
+git clone https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki.git  
 # **Gradle Gereksinimlerini yükleyin:**  
-implementation "androidx.recyclerview:recyclerview:1.3.2"
-    implementation 'com.google.android.material:material:1.11.0'
-    implementation ('com.github.shrikanth7698:Custom-Navigation-Drawer:v0.0.1') {
-        exclude group: 'com.android.support', module: 'support-compat'
-    }
-    implementation 'com.github.bumptech.glide:glide:4.12.0'
+implementation "androidx.recyclerview:recyclerview:1.3.2"  
+    implementation 'com.google.android.material:material:1.11.0'  
+    implementation ('com.github.shrikanth7698:Custom-Navigation-Drawer:v0.0.1') {  
+        exclude group: 'com.android.support', module: 'support-compat'  
+    }  
+    implementation 'com.github.bumptech.glide:glide:4.12.0'  
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'  
