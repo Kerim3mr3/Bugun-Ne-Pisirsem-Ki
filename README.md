@@ -11,22 +11,22 @@
 ---
 
 # **Splash Screen (Açılış Ekranı)**  
-![Splash Screen Ekran Görüntüsü](./app/src/main/res/drawable/bnpk_splash_screen_animated.gif)  
+<img src="./app/src/main/res/drawable/bnpk_splash_screen_animated.gif" alt="Splash Screen Ekran Görüntüsü" width="300">
 
 # **Ana Sayfa**  
-![Ana Sayfa Ekran Görüntüsü](./app/src/main/res/drawable/anasayfa_gif.gif)  
+<img src="./app/src/main/res/drawable/anasayfa_gif.gif" alt="Ana Sayfa Ekran Görüntüsü" width="300">
 
 # **Menu**  
-![Menu Ekran Görüntüsü](./app/src/main/res/drawable/Menu_Gif.gif)  
+<img src="./app/src/main/res/drawable/Menu_Gif.gif" alt="Menu Ekran Görüntüsü" width="300">
 
 # **Yemekler**  
-![Yemekler Ekran Görüntüsü](./app/src/main/res/drawable/Yemekler_Gif.gif)  
+<img src="./app/src/main/res/drawable/Yemekler_Gif.gif" alt="Yemekler Ekran Görüntüsü" width="300">
 
 # **Çorbalar**  
-![Çorbalar Ekran Görüntüsü](./app/src/main/res/drawable/Corbalar_Gif.gif)  
+<img src="./app/src/main/res/drawable/Corbalar_Gif.gif" alt="Çorbalar Ekran Görüntüsü" width="300">
 
 # **Tatlılar**  
-![Tatlılar Ekran Görüntüsü](./app/src/main/res/drawable/Tatlılar_Gif.gif)  
+<img src="./app/src/main/res/drawable/Tatlılar_Gif.gif" alt="Tatlılar Ekran Görüntüsü" width="300">
 
 # **Gradle Gereksinimleri**
 ```gradle
