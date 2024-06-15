@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_constraintCircleRadius="15dp"
+    tools:context=".MainActivity">
+
+    <com.shrikanthravi.customnavigationdrawer2.widget.SNavigationDrawer
+        android:id="@+id/navigationDrawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:HamMenuIconTintColor="@android:color/white"
+        app:appbarColor="@color/tema_rengi"
+        app:appbarTitleTextColor="@android:color/white"
+        app:appbarTitleTextSize="10sp"
+        app:navigationDrawerBackgroundColor="@color/tema_rengi"
+        app:primaryMenuItemTextColor="@android:color/white"
+        app:primaryMenuItemTextSize="8dp"
+        app:secondaryMenuItemTextColor="@android:color/white"
+        app:secondaryMenuItemTextSize="8dp">
+
+        <FrameLayout
+            android:id="@+id/frameLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/White" />
+    </com.shrikanthravi.customnavigationdrawer2.widget.SNavigationDrawer>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
