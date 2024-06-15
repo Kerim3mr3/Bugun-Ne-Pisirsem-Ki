@@ -16,6 +16,7 @@
 # **Tatlılar**  
 ![Tatlılar Ekran Görüntüsü](./app/src/main/res/drawable/Tatlılar_Gif.gif)  
 
+# **Gradle Gereksinimleri**
 ```gradle
 implementation "androidx.recyclerview:recyclerview:1.3.2"
 implementation 'com.google.android.material:material:1.11.0'
