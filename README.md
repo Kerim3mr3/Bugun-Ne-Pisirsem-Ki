@@ -11,34 +11,41 @@
 ---
 
 # **Splash Screen (Açılış Ekranı)**  
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Splash Screen (Açılış Ekranı)</h2>
     <img src="./app/src/main/res/drawable/bnpk_splash_screen_animated.gif" alt="Splash Screen Ekran Görüntüsü" width="300">
 </div>
 
 # **Ana Sayfa**  
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Ana Sayfa</h2>
     <img src="./app/src/main/res/drawable/anasayfa_gif.gif" alt="Ana Sayfa Ekran Görüntüsü" width="300">
 </div>
 
 # **Menu**  
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Menu</h2>
     <img src="./app/src/main/res/drawable/Menu_Gif.gif" alt="Menu Ekran Görüntüsü" width="300">
 </div>
 
 # **Yemekler**  
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Yemekler</h2>
     <img src="./app/src/main/res/drawable/Yemekler_Gif.gif" alt="Yemekler Ekran Görüntüsü" width="300">
 </div>
 
 # **Çorbalar**  
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Çorbalar</h2>
     <img src="./app/src/main/res/drawable/Corbalar_Gif.gif" alt="Çorbalar Ekran Görüntüsü" width="300">
 </div>
 
 # **Tatlılar**  
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Tatlılar</h2>
     <img src="./app/src/main/res/drawable/Tatlılar_Gif.gif" alt="Tatlılar Ekran Görüntüsü" width="300">
 </div>
+
 # **Gradle Gereksinimleri**
 ```gradle
 implementation "androidx.recyclerview:recyclerview:1.3.2"
