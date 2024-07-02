@@ -44,7 +44,7 @@ Java programlama dilinde Android Studio platformunda yapılmış basit bir yemek
     <img src="./app/src/main/res/drawable/Tatlılar_Gif.gif" alt="Tatlılar Ekran Görüntüsü" width="300">
 </div>
 
-# **Gradle Gereksinimleri**
+# **Gradle Gereksinimleri **
 ```gradle
 implementation "androidx.recyclerview:recyclerview:1.3.2"
 implementation 'com.google.android.material:material:1.11.0'
